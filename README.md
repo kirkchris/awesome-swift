@@ -25,6 +25,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
 - [Guides](#guides)
+- [Boilerplates](#boilerplates)
 - [Patterns](#patterns)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
@@ -146,7 +147,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in Swift.
 * [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
 * [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you.
-* [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
+* [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.'
+* [To Do App](https://github.com/goprimer/swift-off-todo) - Firebase powered to do app built in swift. Includes tutorial.
 * [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - trySwift! Conference app.
 * [Valio](https://github.com/soffes/valio) - event time table app in Swift.
 * [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
@@ -215,6 +217,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
 * [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
+* 
+## Boilerplates
+* [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between webview and 
+* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
+* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
 
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
@@ -625,7 +632,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Moya](https://github.com/Moya/Moya) - network abstraction layer.
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library in Swift.
-* [NetKit](https://github.com/azizuysal/NetKit) - A Concise HTTP Framework in Swift.
 * [NKMultipeer](https://github.com/nathankot/NKMultipeer) - A testable abstraction over multipeer connectivity
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS.
